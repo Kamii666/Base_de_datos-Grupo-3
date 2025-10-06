@@ -25,8 +25,8 @@ Este repositorio está dedicado a documentar y almacenar todas las **actividades
 | Nombre | Rol / Contribución Principal |
 | :--- | :--- |
 | **Juan Kamilo** | **Líder del Proyecto** / Coordinación |
-| **Juan** | Miembro del Equipo |
-| **Joyo** | Miembro del Equipo |
+| **Jhoneider David** | Miembro del Equipo |
+| **Duban Alexis** | Miembro del Equipo |
 
 ---
 
