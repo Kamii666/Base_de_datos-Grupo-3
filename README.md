@@ -26,9 +26,9 @@ El objetivo es [**Menciona un objetivo general, ej: aplicar los fundamentos del 
 
 | Nombre | Rol / Contribución Principal | Perfil de GitHub (Opcional) |
 | :--- | :--- | :--- |
-| **Pepito** | **Líder del Proyecto** / Coordinación y [Enfoque] | [@UsuarioGitHubDePepito] |
-| **Juan** | [Rol o enfoque principal, ej: Investigación y Pruebas] | [@UsuarioGitHubDeJuan] |
-| **Joyo** | [Rol o enfoque principal, ej: Documentación y Diseño] | [@UsuarioGitHubDeJoyo] |
+| **Pepito** | **Líder del Proyecto** / Coordinación y [Enfoque] |
+| **Juan** | [Rol o enfoque principal, ej: Investigación y Pruebas]|
+| **Joyo** | [Rol o enfoque principal, ej: Documentación y Diseño] |
 
 ---
 
