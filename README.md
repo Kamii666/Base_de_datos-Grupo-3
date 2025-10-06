@@ -8,8 +8,6 @@
 
 Este repositorio está dedicado a documentar y almacenar todas las **actividades, tareas, y documentación** desarrolladas por el Grupo 3 como parte del curso de **Base de Datos I**.
 
-El objetivo es [**Menciona un objetivo general, ej: aplicar los fundamentos del modelado y la implementación de sistemas de bases de datos**].
-
 ---
 
 ## 📂 Estructura Inicial
@@ -26,7 +24,7 @@ El objetivo es [**Menciona un objetivo general, ej: aplicar los fundamentos del 
 
 | Nombre | Rol / Contribución Principal |
 | :--- | :--- |
-| **Pepito** | **Líder del Proyecto** / Coordinación y [Enfoque] |
+| **Juan Kamilo** | **Líder del Proyecto** / Coordinación |
 | **Juan** | [Rol o enfoque principal, ej: Investigación y Pruebas]|
 | **Joyo** | [Rol o enfoque principal, ej: Documentación y Diseño] |
 
