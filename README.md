@@ -25,8 +25,8 @@ Este repositorio está dedicado a documentar y almacenar todas las **actividades
 | Nombre | Rol / Contribución Principal |
 | :--- | :--- |
 | **Juan Kamilo** | **Líder del Proyecto** / Coordinación |
-| **Juan** | [Rol o enfoque principal, ej: Investigación y Pruebas]|
-| **Joyo** | [Rol o enfoque principal, ej: Documentación y Diseño] |
+| **Juan** | Miembro del Equipo |
+| **Joyo** | Miembro del Equipo |
 
 ---
 
