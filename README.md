@@ -24,8 +24,8 @@ El objetivo es [**Menciona un objetivo general, ej: aplicar los fundamentos del 
 
 ## 👥 Integrantes
 
-| Nombre | Rol / Contribución Principal | Perfil de GitHub (Opcional) |
-| :--- | :--- | :--- |
+| Nombre | Rol / Contribución Principal |
+| :--- | :--- |
 | **Pepito** | **Líder del Proyecto** / Coordinación y [Enfoque] |
 | **Juan** | [Rol o enfoque principal, ej: Investigación y Pruebas]|
 | **Joyo** | [Rol o enfoque principal, ej: Documentación y Diseño] |
