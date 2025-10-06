@@ -1,50 +1,39 @@
-# 💾 Base de datos - Grupo 3
+# 💾 Base de Datos - Grupo 3
 
-### Actividades de Base de Datos I
-
----
-
-## 🚀 Acerca del Proyecto
-
-Este repositorio contiene las **actividades y tareas** realizadas por el Grupo 3 como parte del curso de **Bases de Datos I**. El objetivo principal es aplicar los conceptos teóricos aprendidos sobre diseño, implementación y gestión de bases de datos relacionales y no relacionales.
+### Actividades del Curso: Base de Datos I
 
 ---
 
-## 📁 Estructura del Repositorio
+## 💡 Acerca del Proyecto
 
-Hemos organizado el proyecto de la siguiente manera para facilitar su navegación:
+Este repositorio está dedicado a documentar y almacenar todas las **actividades, tareas, y documentación** desarrolladas por el Grupo 3 como parte del curso de **Base de Datos I**.
 
-* **`Tarea-02`** al **`Tarea-06`**: Contienen los archivos y la documentación (probablemente un `readme.md` dentro de cada uno) relacionados con las tareas asignadas.
-    * *Menciona el tema de cada tarea aquí (e.g., Diseño ER, Normalización, Consultas SQL).*
-* **`Videos`**: Almacena enlaces o transcripciones de los videos o material audiovisual relacionado con las actividades o presentaciones.
-* **`README.md`**: El documento que estás leyendo, con una visión general del proyecto.
-* **`Reflexion_lider.txt`**: El archivo que contiene la reflexión del líder del grupo sobre el proceso.
+El objetivo es [**Menciona un objetivo general, ej: aplicar los fundamentos del modelado y la implementación de sistemas de bases de datos**].
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 📂 Estructura Inicial
 
-Las siguientes tecnologías y lenguajes han sido utilizados o estudiados en este proyecto:
-
-* **Sistemas de Gestión de Bases de Datos (SGBD):** [Ej. PostgreSQL, MySQL, SQL Server]
-* **Lenguajes:** [Ej. SQL, Python, Java]
-* **Herramientas de Modelado:** [Ej. Diagramas ER, Herramienta X]
-
----
-
-## 👥 Integrantes del Grupo
-
-Este proyecto fue realizado por:
-
-* **[Tu Nombre/Alias 1]** - Rol en el proyecto
-* **[Tu Nombre/Alias 2]** - Rol en el proyecto
-* **[Tu Nombre/Alias 3]** - Rol en el proyecto
-
-*Puedes añadir un enlace a sus perfiles de GitHub si lo deseas.*
+| Carpeta / Archivo | Descripción |
+| :--- | :--- |
+| **`Tarea-02`** al **`Tarea-06`** | Espacio reservado para las tareas y sus respectivas entregas. |
+| **`Videos`** | Material audiovisual o enlaces de apoyo. |
+| **`Reflexion_lider.txt`** | Reflexión final sobre el desarrollo del proyecto. |
 
 ---
 
-## 📜 Licencia
+## 👥 Integrantes
 
-Este proyecto está bajo la Licencia [Específica de tu proyecto, ej. MIT o Public Domain].
-[Enlace a tu archivo de Licencia si tienes uno]
+| Nombre | Rol / Contribución Principal | Perfil de GitHub (Opcional) |
+| :--- | :--- | :--- |
+| **Pepito** | **Líder del Proyecto** / Coordinación y [Enfoque] | [@UsuarioGitHubDePepito] |
+| **Juan** | [Rol o enfoque principal, ej: Investigación y Pruebas] | [@UsuarioGitHubDeJuan] |
+| **Joyo** | [Rol o enfoque principal, ej: Documentación y Diseño] | [@UsuarioGitHubDeJoyo] |
+
+---
+
+## 🛠️ Próximamente: Tecnologías
+
+* *Esta sección se actualizará una vez que se definan las herramientas y sistemas de gestión de bases de datos (SGBD) a utilizar.*
+
+---
