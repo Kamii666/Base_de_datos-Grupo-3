@@ -15,7 +15,7 @@ Este repositorio está dedicado a documentar y almacenar todas las **actividades
 | Carpeta / Archivo | Descripción |
 | :--- | :--- |
 | **`Tarea-02`** al **`Tarea-06`** | Espacio reservado para las tareas y sus respectivas entregas. |
-| **`Videos`** | Material audiovisual o enlaces de apoyo. |
+| **`Videos`** | Material audiovisual. |
 | **`Reflexion_lider.txt`** | Reflexión final sobre el desarrollo del proyecto. |
 
 ---
